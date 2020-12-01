@@ -1,2 +1,8 @@
 # stepik-auto-tests-course
-домашка 
+Тут какие-то изменения
+dsdfsdfsd
+sdf
+sdf
+sd
+f
+sd
